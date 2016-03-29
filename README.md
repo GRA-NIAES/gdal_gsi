@@ -1,0 +1,4 @@
+# gdal_gsi
+GDAL/OGR for GSI JPGIS(GML)
+
+JPGIS(GML)対応版 GDAL/OGR
